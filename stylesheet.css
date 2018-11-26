@@ -1,10 +1,12 @@
-.navbar{width:100%;position: absolute;left:0; right:0; padding-bottom: 20px}
+.navbar{width:100%;position: absolute;left:0; right:0; padding-bottom: 20px ; font-family:"Lucida Console", Monaco, monospace; }
 #contactform {padding-top: 100px;
 
 }
 .searchbar {padding-top: 100px;}
 #button {padding: 12px; margin-top: 6px}
 .steps {padding: 40px; margin:}
+
+
 /*social media buttons */
 .fa {
   padding: 20px;
